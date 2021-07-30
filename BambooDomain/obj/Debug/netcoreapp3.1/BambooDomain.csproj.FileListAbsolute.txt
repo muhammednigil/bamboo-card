@@ -1,0 +1,18 @@
+C:\Projects\TestProject\1\Bamboo\BambooDomain\bin\Debug\netcoreapp3.1\BambooDomain.deps.json
+C:\Projects\TestProject\1\Bamboo\BambooDomain\bin\Debug\netcoreapp3.1\BambooDomain.dll
+C:\Projects\TestProject\1\Bamboo\BambooDomain\bin\Debug\netcoreapp3.1\BambooDomain.pdb
+C:\Projects\TestProject\1\Bamboo\BambooDomain\obj\Debug\netcoreapp3.1\BambooDomain.csproj.AssemblyReference.cache
+C:\Projects\TestProject\1\Bamboo\BambooDomain\obj\Debug\netcoreapp3.1\BambooDomain.AssemblyInfoInputs.cache
+C:\Projects\TestProject\1\Bamboo\BambooDomain\obj\Debug\netcoreapp3.1\BambooDomain.AssemblyInfo.cs
+C:\Projects\TestProject\1\Bamboo\BambooDomain\obj\Debug\netcoreapp3.1\BambooDomain.csproj.CoreCompileInputs.cache
+C:\Projects\TestProject\1\Bamboo\BambooDomain\obj\Debug\netcoreapp3.1\BambooDomain.dll
+C:\Projects\TestProject\1\Bamboo\BambooDomain\obj\Debug\netcoreapp3.1\BambooDomain.pdb
+D:\New folder (2)\Bamboo\Bamboo\BambooDomain\bin\Debug\netcoreapp3.1\BambooDomain.deps.json
+D:\New folder (2)\Bamboo\Bamboo\BambooDomain\bin\Debug\netcoreapp3.1\BambooDomain.dll
+D:\New folder (2)\Bamboo\Bamboo\BambooDomain\bin\Debug\netcoreapp3.1\BambooDomain.pdb
+D:\New folder (2)\Bamboo\Bamboo\BambooDomain\obj\Debug\netcoreapp3.1\BambooDomain.csprojAssemblyReference.cache
+D:\New folder (2)\Bamboo\Bamboo\BambooDomain\obj\Debug\netcoreapp3.1\BambooDomain.AssemblyInfoInputs.cache
+D:\New folder (2)\Bamboo\Bamboo\BambooDomain\obj\Debug\netcoreapp3.1\BambooDomain.AssemblyInfo.cs
+D:\New folder (2)\Bamboo\Bamboo\BambooDomain\obj\Debug\netcoreapp3.1\BambooDomain.csproj.CoreCompileInputs.cache
+D:\New folder (2)\Bamboo\Bamboo\BambooDomain\obj\Debug\netcoreapp3.1\BambooDomain.dll
+D:\New folder (2)\Bamboo\Bamboo\BambooDomain\obj\Debug\netcoreapp3.1\BambooDomain.pdb

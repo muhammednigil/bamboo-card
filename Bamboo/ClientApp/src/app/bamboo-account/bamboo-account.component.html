@@ -1,0 +1,20 @@
+<h1 id="tableLabel">Account</h1>
+
+<p *ngIf="!accounts"><em>Loading...</em></p>
+
+<table class='table table-striped' aria-labelledby="tableLabel" *ngIf="accounts">
+  <thead>
+    <tr>
+      <th>Currency</th>
+      <th>Balance</th>
+      <th>Is Active</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let account of accounts">
+      <td>{{ account.currency }}</td>
+      <td>{{ account.balance }}</td>
+      <td>{{ account.isActive? "ACTIVE" : "INACTIVE" }}</td>
+    </tr>
+  </tbody>
+</table>

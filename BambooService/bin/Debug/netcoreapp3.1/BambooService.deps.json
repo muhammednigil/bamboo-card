@@ -1,0 +1,126 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "BambooService/1.0.0": {
+        "dependencies": {
+          "BambooDomain": "1.0.0",
+          "Microsoft.Extensions.Configuration": "3.1.17",
+          "Microsoft.Extensions.Configuration.Binder": "3.1.17",
+          "Newtonsoft.Json": "13.0.1"
+        },
+        "runtime": {
+          "BambooService.dll": {}
+        }
+      },
+      "Microsoft.Extensions.Configuration/3.1.17": {
+        "dependencies": {
+          "Microsoft.Extensions.Configuration.Abstractions": "3.1.17"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/Microsoft.Extensions.Configuration.dll": {
+            "assemblyVersion": "3.1.17.0",
+            "fileVersion": "3.100.1721.31514"
+          }
+        }
+      },
+      "Microsoft.Extensions.Configuration.Abstractions/3.1.17": {
+        "dependencies": {
+          "Microsoft.Extensions.Primitives": "3.1.17"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll": {
+            "assemblyVersion": "3.1.17.0",
+            "fileVersion": "3.100.1721.31514"
+          }
+        }
+      },
+      "Microsoft.Extensions.Configuration.Binder/3.1.17": {
+        "dependencies": {
+          "Microsoft.Extensions.Configuration": "3.1.17"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll": {
+            "assemblyVersion": "3.1.17.0",
+            "fileVersion": "3.100.1721.31514"
+          }
+        }
+      },
+      "Microsoft.Extensions.Primitives/3.1.17": {
+        "runtime": {
+          "lib/netcoreapp3.1/Microsoft.Extensions.Primitives.dll": {
+            "assemblyVersion": "3.1.17.0",
+            "fileVersion": "3.100.1721.31514"
+          }
+        }
+      },
+      "Newtonsoft.Json/13.0.1": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "13.0.0.0",
+            "fileVersion": "13.0.1.25517"
+          }
+        }
+      },
+      "BambooDomain/1.0.0": {
+        "dependencies": {
+          "Newtonsoft.Json": "13.0.1"
+        },
+        "runtime": {
+          "BambooDomain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BambooService/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Extensions.Configuration/3.1.17": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-izMhve9pDG2rLt8mVxpD5zyJGtdR6HWY0KCAUnTeGvuuD4xaoMlCzNseozzmY6+qGXljQnofZ86rMnDkn18oWg==",
+      "path": "microsoft.extensions.configuration/3.1.17",
+      "hashPath": "microsoft.extensions.configuration.3.1.17.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Configuration.Abstractions/3.1.17": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-mPQm9EkeqyvwPBKxeb6Zag66p2LoBNqnoG/5ULH49yIOYyR5JcauM4YhlxqDtNON/j/JK388TM8JJ0MFrDEmKg==",
+      "path": "microsoft.extensions.configuration.abstractions/3.1.17",
+      "hashPath": "microsoft.extensions.configuration.abstractions.3.1.17.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Configuration.Binder/3.1.17": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-q7m3yzpEFagTmkc+IeRedRsO0l8AK4lh7q1CxkU1FTWs8QcmSssmvLFoKx0lNRNHIaWfDCDyGFNNfiwoYqELoA==",
+      "path": "microsoft.extensions.configuration.binder/3.1.17",
+      "hashPath": "microsoft.extensions.configuration.binder.3.1.17.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Primitives/3.1.17": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Dps198+KGasKjBZ66s9cOMJjZJZ2GJ3hHrmHcKiCXMB9r4ZDsD7wDXbswiGVf+da5WglA28ZFpxX1kq5S9TCGQ==",
+      "path": "microsoft.extensions.primitives/3.1.17",
+      "hashPath": "microsoft.extensions.primitives.3.1.17.nupkg.sha512"
+    },
+    "Newtonsoft.Json/13.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ppPFpBcvxdsfUonNcvITKqLl3bqxWbDCZIzDWHzjpdAHRFfZe0Dw9HmA0+za13IdyrgJwpkDTDA9fHaxOrt20A==",
+      "path": "newtonsoft.json/13.0.1",
+      "hashPath": "newtonsoft.json.13.0.1.nupkg.sha512"
+    },
+    "BambooDomain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

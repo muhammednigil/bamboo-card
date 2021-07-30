@@ -1,0 +1,24 @@
+C:\Projects\TestProject\1\Bamboo\BambooService\bin\Debug\netcoreapp3.1\BambooService.deps.json
+C:\Projects\TestProject\1\Bamboo\BambooService\bin\Debug\netcoreapp3.1\BambooService.dll
+C:\Projects\TestProject\1\Bamboo\BambooService\bin\Debug\netcoreapp3.1\BambooService.pdb
+C:\Projects\TestProject\1\Bamboo\BambooService\bin\Debug\netcoreapp3.1\BambooDomain.dll
+C:\Projects\TestProject\1\Bamboo\BambooService\bin\Debug\netcoreapp3.1\BambooDomain.pdb
+C:\Projects\TestProject\1\Bamboo\BambooService\obj\Debug\netcoreapp3.1\BambooService.csproj.AssemblyReference.cache
+C:\Projects\TestProject\1\Bamboo\BambooService\obj\Debug\netcoreapp3.1\BambooService.AssemblyInfoInputs.cache
+C:\Projects\TestProject\1\Bamboo\BambooService\obj\Debug\netcoreapp3.1\BambooService.AssemblyInfo.cs
+C:\Projects\TestProject\1\Bamboo\BambooService\obj\Debug\netcoreapp3.1\BambooService.csproj.CoreCompileInputs.cache
+C:\Projects\TestProject\1\Bamboo\BambooService\obj\Debug\netcoreapp3.1\BambooService.csproj.CopyComplete
+C:\Projects\TestProject\1\Bamboo\BambooService\obj\Debug\netcoreapp3.1\BambooService.dll
+C:\Projects\TestProject\1\Bamboo\BambooService\obj\Debug\netcoreapp3.1\BambooService.pdb
+D:\New folder (2)\Bamboo\Bamboo\BambooService\bin\Debug\netcoreapp3.1\BambooService.deps.json
+D:\New folder (2)\Bamboo\Bamboo\BambooService\bin\Debug\netcoreapp3.1\BambooService.dll
+D:\New folder (2)\Bamboo\Bamboo\BambooService\bin\Debug\netcoreapp3.1\BambooService.pdb
+D:\New folder (2)\Bamboo\Bamboo\BambooService\bin\Debug\netcoreapp3.1\BambooDomain.dll
+D:\New folder (2)\Bamboo\Bamboo\BambooService\bin\Debug\netcoreapp3.1\BambooDomain.pdb
+D:\New folder (2)\Bamboo\Bamboo\BambooService\obj\Debug\netcoreapp3.1\BambooService.csprojAssemblyReference.cache
+D:\New folder (2)\Bamboo\Bamboo\BambooService\obj\Debug\netcoreapp3.1\BambooService.AssemblyInfoInputs.cache
+D:\New folder (2)\Bamboo\Bamboo\BambooService\obj\Debug\netcoreapp3.1\BambooService.AssemblyInfo.cs
+D:\New folder (2)\Bamboo\Bamboo\BambooService\obj\Debug\netcoreapp3.1\BambooService.csproj.CoreCompileInputs.cache
+D:\New folder (2)\Bamboo\Bamboo\BambooService\obj\Debug\netcoreapp3.1\BambooService.csproj.CopyComplete
+D:\New folder (2)\Bamboo\Bamboo\BambooService\obj\Debug\netcoreapp3.1\BambooService.dll
+D:\New folder (2)\Bamboo\Bamboo\BambooService\obj\Debug\netcoreapp3.1\BambooService.pdb
